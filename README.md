@@ -4,7 +4,7 @@
 
 ## 社交主页
 
-<a href="https://www.lovezxg.cn/"><code><img height="20" width="20" src="https://up.lovezxg.cn/logo/blog.jpg"></code></a>：我的 blog，累计访问 23 万+，还能走多远目前未知 🤞
+<a href="https://www.lovezxg.cn/"><code><img height="20" width="20" src="https://up.lovezxg.cn/logo/blog.jpg"></code></a>：我的 blog，累计访问 30 万+，还能走多远目前未知 🤞
 
 <a href="https://zxgbilibili.github.io/"><code><img height="20" width="20" src="https://up.lovezxg.cn/logo/blog.jpg"></code></a>：hexo 搭建，副站 🎈
 
